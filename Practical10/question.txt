@@ -1,0 +1,6 @@
+Question: What was the distribution of DALYs across all countries in 2019?
+
+This question is answered starting at line 140 in dalys.py.
+
+Result and discussion:
+The histogram shows that most countries in 2019 had DALYs between approximately 10,000 and 30,000 per 100,000 population. There is a long right tail with a few countries having extremely high burden. This is expected because low-income countries in Africa and parts of Asia still suffer from high infectious disease burden, while high-income countries have much lower DALYs due to better healthcare and lower mortality.
